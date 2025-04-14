@@ -1,5 +1,5 @@
 Hi there!
-This repo is dedicated to my master thesis project. We studied CDK8/19 protein analyzing single-cell and bulk RNA-seq data.
+This repo is dedicated to my master thesis project. We studied CDK8/19 proteins analyzing single-cell and bulk RNA-seq data.
 So we started with differential expression analysis, transcription factors searching, GRN analysis and alternative splicing analysis. Some of these steps were conducted locally or via internet tools so not all data and info  which are parts of my thesis are not here.
 
 
